@@ -1,0 +1,14 @@
+.conteinerTableProducts{
+  position: absolute;
+  left: 40%;
+}
+
+.tableProducts th{
+    border: 1px solid black;
+}
+    
+.tableProducts td{
+    text-align: center;
+    padding: 10px;
+    border: 1px solid black;
+}
