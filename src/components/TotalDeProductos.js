@@ -36,7 +36,7 @@ class TotalDeProductos extends Component {
         
         return (
           <div>
-              <p className="ver">La cantidad de productos en la tienda es: {this.state.cantidad}</p>
+              <p className="ver1">La cantidad de productos en la tienda es: {this.state.cantidad}</p>
           </div>
         );
         

@@ -33,7 +33,7 @@ class UltimoProductoCreado extends Component {
         
         return (
           <div>
-              <p>El ultimo elemento creado en la tienda es: {this.state.ultimoProducto}</p>
+              <p className="ver3">El ultimo elemento creado en la tienda es: {this.state.ultimoProducto}</p>
           </div>
         );
         

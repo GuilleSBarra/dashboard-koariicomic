@@ -1,14 +1,26 @@
 .conteinerTableProducts{
-  position: absolute;
-  left: 40%;
+  text-align: center;
+  padding: 15px;
 }
 
 .tableProducts th{
-    border: 1px solid black;
+    border: 1px solid white; 
 }
     
 .tableProducts td{
-    text-align: center;
     padding: 10px;
-    border: 1px solid black;
+    border: 1px solid white;
+    font-family: 'Bangers', cursive;
+    color: white;
+}
+
+.tableProducts{
+  left: 38%;
+  position: relative;
+  padding: 15px;
+}
+
+.ver4{
+  font-family: 'Bangers', cursive;
+  color: white;
 }

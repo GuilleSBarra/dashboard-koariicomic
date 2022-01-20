@@ -1,0 +1,5 @@
+.prueba{
+    background-image: url("../img/back.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}

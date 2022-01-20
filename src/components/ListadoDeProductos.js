@@ -36,7 +36,7 @@ class ListadoDeProductos extends Component {
         
         return (
             <section className="conteinerTableProducts">
-                <p>El listado de productos en tienda es:</p>
+                <p className="ver4">El listado de productos en tienda es:</p>
                 <table className="tableProducts">
                     <tbody>
                 {this.state.listado.map((product, i)=>    
