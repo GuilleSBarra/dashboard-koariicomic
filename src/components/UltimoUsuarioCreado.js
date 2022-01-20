@@ -1,6 +1,4 @@
 import React, {Component} from "react";
-import UltimoProductoCreado from "../assets/css/UltimoProductoCreado.css"
-
 class UltimoUsuarioCreado extends Component {
 
     constructor(props){

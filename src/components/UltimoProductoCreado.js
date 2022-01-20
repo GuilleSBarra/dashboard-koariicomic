@@ -1,4 +1,5 @@
 import React, {Component} from "react";
+imp"../assets/css/UltimoProductoCreado.css";
 
 class UltimoProductoCreado extends Component {
 
