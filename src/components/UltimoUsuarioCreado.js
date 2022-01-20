@@ -32,7 +32,7 @@ class UltimoUsuarioCreado extends Component {
         
         return (
           <div>
-              <p>El ultimo usuario que de dio de alta es: {this.state.ultimoUsuario}</p>
+              <p className="ver1">El ultimo usuario que de dio de alta es: {this.state.ultimoUsuario}</p>
           </div>
         );
         

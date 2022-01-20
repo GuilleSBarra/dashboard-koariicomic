@@ -36,7 +36,7 @@ class TotalUsuarios extends Component {
         
         return (
           <div>
-              <p className="ver">La cantidad de usuarios de la tienda es: {this.state.totalUsus}</p>
+              <p className="ver1">La cantidad de usuarios de la tienda es: {this.state.totalUsus}</p>
           </div>
         );
         
