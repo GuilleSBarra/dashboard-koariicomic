@@ -1,5 +1,6 @@
 /* eslint-disable jsx-a11y/alt-text */
 import React, { Component } from "react";
+import "../assets/css/UltimoUsuarioCreado.css"
 class UltimoUsuarioCreado extends Component {
   constructor(props) {
     super(props);
@@ -40,7 +41,7 @@ class UltimoUsuarioCreado extends Component {
             </tr>
           </tbody>
         </table>
-        <img src={`https://koaricomic.herokuapp.com/${this.state.lastUser.detail}`}/>
+        <img className="coco" src={`https://koaricomic.herokuapp.com/${this.state.lastUser.detail}`}/>
       </section>
     );
   }
